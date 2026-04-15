@@ -307,20 +307,7 @@ pip install torch scikit-learn pandas numpy matplotlib seaborn
 
 ---
 
-## 📁 Project Structure
 
-```
-Cardiovascular Disease Detection/
-├── README.md                                      # This file
-├── Cardiovascular_Disease_Dataset.csv              # Dataset 1 — Mendeley CVD dataset (1000 samples)
-├── heart_failure_clinical_records_dataset.csv      # Dataset 2 — Heart Failure (299 samples)
-├── ensemble_fttransformer_cnn.ipynb                # Notebook for Dataset 1
-├── ensemble_fttransformer_cnn_heart_failure.ipynb   # Notebook for Dataset 2 (Improved v2)
-├── ft_transformer_cardiovascular.ipynb             # Standalone FT-Transformer experiments
-├── ML_pipeline.ipynb                               # Traditional ML pipeline
-├── EDA.ipynb                                       # Exploratory Data Analysis
-└── ...
-```
 
 ---
 
